@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\Project_Github\\CoffeeManagement\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\project_github\\coffeemanagement\\coffeemanagement\\coffeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|solutionrelative:coffeemanagement\\coffeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +35,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoffeeManagement",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\Project_Github\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.csproj",
+              "RelativeDocumentMoniker": "CoffeeManagement\\CoffeeManagement.csproj",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\Project_Github\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.csproj",
+              "RelativeToolTip": "CoffeeManagement\\CoffeeManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T06:23:46.667Z",
+              "EditorCaption": ""
             }
           ]
         }
